@@ -1,0 +1,7 @@
+body {
+    overflow: hidden;
+}
+
+.embed-responsive {
+    height: 100vh;
+}
