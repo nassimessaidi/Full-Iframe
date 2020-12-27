@@ -5,4 +5,4 @@
   * https://www.example.com/?url=https://targeted_website.com
 
 ## Preview
-* [Full IFrame](https://bit.ly/Full_Iframe)
+* [Full IFrame](https://full-iframe-passed-link.netlify.app)
